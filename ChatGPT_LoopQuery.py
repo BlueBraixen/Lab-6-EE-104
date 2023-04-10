@@ -6,7 +6,7 @@ load_dotenv()
 #Sign up for OpenAI here https://beta.openai.com/signup
 # and obtain an API key from here https://platform.openai.com/account/api-keys
 #Replace the OPEN_API_KEY below with your own key:
-openai.api_key = "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"
+openai.api_key = "Replace with Key"
 
 #If you are using Anaconda Spyder, make sure it is updated to version 5.3.3
 # or later
