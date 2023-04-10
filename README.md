@@ -14,4 +14,4 @@ Changing n changes the nunmber of completions
 Changing the stop changes what keyword can make the AI stop.
 Changin the temperature changes the AI's randomness.
 
-The Quiz game can be run in Spyder. The game has ten questions, a skip feature, a hint feature, and different colors than the default.
+The Quiz game (quizgame.py) can be run in Spyder. The game has ten questions, a skip feature, a hint feature, and different colors than the default.
