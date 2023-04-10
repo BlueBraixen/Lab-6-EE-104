@@ -19,7 +19,11 @@ Changin the temperature changes the AI's randomness.
 
 
 CNN Training: https://youtu.be/X0Bpdk7PuSo
+
 CNN Challenge: https://youtu.be/aEK4X1Y6hn0
+
 Big Quiz Game:https://youtu.be/EcQsiaCJB6k
+
 Hello World to OpenAI: https://youtu.be/dARFd9xx5kU
+
 Hello World to ChatGPT: https://youtu.be/r2a0zU--A_4
